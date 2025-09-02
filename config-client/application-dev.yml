@@ -2,5 +2,6 @@ message: "Hello from DEV environment!"
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/dev_db
-    username: dev_user
-    password: dev_pass
+    username: dev_db
+    password: 123
+
