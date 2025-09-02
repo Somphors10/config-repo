@@ -1,6 +1,2 @@
 message: "Hello from PROD environment!"
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/prod_db
-    username: prod_user
-    password: 123
+
